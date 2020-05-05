@@ -1,3 +1,3 @@
-# NER-with-SciBERT
+# Named Entity Recognition with BERT
 
-Named Entity Recognition using BERT 
+Named Entity Recognition with BERT using Hugginface's Transformers
