@@ -1,2 +1,3 @@
 # NER-with-SciBERT
-Named Entity Recognition using SciBERT 
+
+Named Entity Recognition using BERT 
